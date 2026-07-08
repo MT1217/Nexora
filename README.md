@@ -1,4 +1,4 @@
-# Nexora - Peer Learning Hub
+# Nexora - The Learning Hub
 
 Nexora is a modern MERN-stack subscription marketplace that creates a secure, dynamic learning environment between verified **Mentors** and **Students**. Key highlights include Google-only authentication, direct real-time chat, learning lockers, and auto-graded mock examinations with safety-check single-attempt logic.
 
